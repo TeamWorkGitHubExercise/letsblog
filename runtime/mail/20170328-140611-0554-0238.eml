@@ -1,0 +1,23 @@
+Message-ID: <3bec3b74d781b48d3643d4caa309422c@letsblog>
+Date: Tue, 28 Mar 2017 14:06:10 +0200
+Subject: Message subject
+From: tomasqn@abv.bg
+To: tomaivanovtomov@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1490702771_3ab89ff1d414306d88000bbc4a210249_=_"
+
+
+--_=_swift_v4_1490702771_3ab89ff1d414306d88000bbc4a210249_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Plain text content
+
+--_=_swift_v4_1490702771_3ab89ff1d414306d88000bbc4a210249_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>HTML content</b>
+
+--_=_swift_v4_1490702771_3ab89ff1d414306d88000bbc4a210249_=_--
